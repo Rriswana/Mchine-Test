@@ -1,0 +1,204 @@
+{
+  "places": [
+    {
+      "place": "Kochi",
+      "country": "India"
+    },
+    {
+      "place": "Reykjavik",
+      "country": "Iceland"
+    },
+    {
+      "place": "Port Louis",
+      "country": "Mauritius"
+    },
+    {
+      "place": "Aride",
+      "country": "Seychelles"
+    },
+    {
+      "place": "Bern",
+      "country": "Switzerland"
+    },
+    {
+      "place": "Hesse",
+      "country": "Germany"
+    },
+    {
+      "place": "Henan",
+      "country": "China"
+    },
+    {
+      "place": "Santorini",
+      "country": "Greece"
+    },
+    {
+      "place": "Beijing",
+      "country": "China"
+    },
+    {
+      "place": "Tokyo",
+      "country": "Japan"
+    },
+    {
+      "place": "Ottawa",
+      "country": "Canada"
+    },
+    {
+      "place": "Doha",
+      "country": "Qatar"
+    },
+    {
+      "place": "Rome",
+      "country": "Italy"
+    },
+    {
+      "place": "Bogota",
+      "country": "Colombia"
+    },
+    {
+      "place": "Brasilia",
+      "country": "Brazil"
+    },
+    {
+      "place": "Rome",
+      "country": "Italy"
+    },
+    {
+      "place": "Vienna",
+      "country": "Astria"
+    },
+    {
+      "place": "Kabul",
+      "country": "Afghanistan"
+    },
+    {
+      "place": "Washington D C",
+      "country": "United States"
+    },
+    {
+      "place": "Canberra",
+      "country": "Australia"
+    },
+    {
+      "place": "Delhi",
+      "country": "India"
+    },
+    {
+      "place": "Husavik",
+      "country": "Iceland"
+    },
+    {
+      "place": "Grant Baie",
+      "country": "Mauritius"
+    },
+    {
+      "place": "Anse Lazio",
+      "country": "Seychelles"
+    },
+    {
+      "place": "Glarus",
+      "country": "Switzerland"
+    },
+    {
+      "place": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "place": "Abhu Dhabi",
+      "country": "UAE"
+    },
+    {
+      "place": "Mykonos",
+      "country": "Greece"
+    },
+    {
+      "place": "Dubai",
+      "country": "UAE"
+    },
+    {
+      "place": "Okinawa",
+      "country": "Japan"
+    },
+    {
+      "place": "Ottawa",
+      "country": "Canada"
+    },
+    {
+      "place": "Doha",
+      "country": "Qatar"
+    },
+    {
+      "place": "Rome",
+      "country": "Italy"
+    },
+    {
+      "place": "Bogota",
+      "country": "Colombia"
+    },
+    {
+      "place": "Brasilia",
+      "country": "Brazil"
+    },
+    {
+      "place": "Rome",
+      "country": "Italy"
+    },
+    {
+      "place": "Vienna",
+      "country": "Astria"
+    },
+    {
+      "place": "Kabul",
+      "country": "Afghanistan"
+    },
+    {
+      "place": "Washington D C",
+      "country": "United States"
+    },
+    {
+      "place": "Canberra",
+      "country": "Australia"
+    },
+    {
+      "place": "Goa",
+      "country": "India"
+    },
+    {
+      "place": "Vik",
+      "country": "Iceland"
+    },
+    {
+      "place": "Belle Mare",
+      "country": "Mauritius"
+    },
+    {
+      "place": "Praslin",
+      "country": "Seychelles"
+    },
+    {
+      "place": "Uri",
+      "country": "Switzerland"
+    },
+    {
+      "place": "Baden",
+      "country": "Germany"
+    },
+    {
+      "place": "Anhui",
+      "country": "China"
+    },
+    {
+      "place": "Athens",
+      "country": "Greece"
+    },
+    {
+      "place": "Zhejiang",
+      "country": "China"
+    },
+    {
+      "place": "Kagoshima",
+      "country": "Japan"
+    }
+  ]
+}
